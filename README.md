@@ -23,8 +23,9 @@ I’m a developer, dreamer, and doer- on a journey to transform imagination into
 
  📬 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/satyam-singh-04a160227/)
-[![Gmail](https://img.shields.io/badge/Email-red?style=flat&logo=gmail)](mailto:ss8891055@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)]([https://www.linkedin.com/in/your-linkedin](https://www.linkedin.com/in/satyam-singh-04a160227/))
+[![Email](https://img.shields.io/badge/Email-ss8891055@gmail.com-red?style=flat&logo=gmail)](mailto:ss8891055@gmail.com)
+
 
 ---
 
