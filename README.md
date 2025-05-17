@@ -1,5 +1,5 @@
 
-I’m a developer, dreamer, and doer- on a journey to transform imagination into innovation. My code is my canvas, and every project is a brushstroke in the masterpiece of my career.
+I’m a developer, dreamer, and doer-on a journey... to transform imagination into innovation. My code is my canvas, and every project is a brushstroke in the masterpiece of my career.
 
 ---
 
