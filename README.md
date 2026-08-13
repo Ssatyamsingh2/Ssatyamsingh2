@@ -34,10 +34,17 @@
 
 ---
 
+### 🏆 Coding Profiles
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/u/gUrACkSdZF/)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=flat&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/ss8891055)
+
+---
+
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ssatyamsingh2&show_icons=true&theme=radical" alt="Satyam's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ssatyamsingh2&show_icons=true&theme=radical&count_private=true" alt="Satyam's GitHub stats" />
 </p>
 
 ---
