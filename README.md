@@ -52,7 +52,7 @@
 ### 📬 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/satyam-singh-04a160227/)
-[![Email](https://img.shields.io/badge/Email-ss8891055%40gmail.com-red?style=flat&logo=gmail)](mailto:satyam.work.in@gmail.com)
+[![Email](https://img.shields.io/badge/Email-satyam.work.in%40gmail.com-red?style=flat&logo=gmail)](mailto:satyam.work.in@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=googlechrome&logoColor=white)](https://ssatyamsingh2.github.io/MYPortfolio/)
 
 <p align="center"><em>Open to Java Full Stack Developer internships and entry-level roles — let's connect!</em></p>
