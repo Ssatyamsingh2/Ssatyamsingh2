@@ -28,6 +28,7 @@
 
 | 🚩 Project | 📝 Description | 🧰 Stack |
 |:--|:--|:--|
+| **[AgroSahayak AI](https://ssatyamsingh2.github.io/agrosahayak-ai/)** | Multilingual (English/Hindi/Haryanvi) farming assistant for Indian farmers — crop disease detection, fertilizer shop finder, and a government schemes browser, with voice output support | HTML5, CSS3, JavaScript, ElevenLabs TTS API |
 | **Java Full Stack Currency Converter** | Real-time currency conversion desktop app with REST API + JDBC integration, offline fallback, and a responsive Swing GUI | Java, Swing, REST APIs, JDBC, MySQL |
 | **Full Stack Portfolio Website** | Responsive portfolio built with reusable React.js components and modern UI/UX practices | HTML, CSS, JavaScript, React.js |
 | **Software Testing & Automation** | Manual test case design, SDLC/STLC practice, and Selenium automation fundamentals | Selenium, Manual Testing |
