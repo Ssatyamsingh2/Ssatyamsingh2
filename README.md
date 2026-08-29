@@ -1,59 +1,31 @@
-<h1 align="center">Hi, I'm Satyam Singh 👋</h1>
-<h3 align="center">Java Full Stack Developer | React.js • Spring Boot • SQL</h3>
+# 💫 About Me:
+Hi there, I'm Satyam 👋<br><br>
+🎓 4th-year B.Tech CS/IT student at Subharti University, Meerut  
+💻 Building toward a career as a Java Full Stack Developer  
+🌱 Currently working with Java, Spring Boot, React, and MySQL  
+🚀 Recent build: AgroSahayak AI — a multilingual farming assistant for Indian farmers  
+📫 Reach me at satyam.work.in@gmail.com
 
-<p align="center">
-  🎓 B.Tech CSE student @ Subharti Institute of Technology, Meerut (2023–2027)<br/>
-  🚀 Building full stack applications with Java, React.js, REST APIs, and MySQL<br/>
-  🌱 Currently strengthening backend fundamentals (Spring Boot) and software testing (Selenium, SDLC/STLC)<br/>
-  🎯 Looking for internship / entry-level opportunities in Java Full Stack Development (Delhi-NCR)
-</p>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/satyam-singh-04a160227) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:satyam.work.in@gmail.com) [![LeetCode](https://img.shields.io/badge/LeetCode-%23000000.svg?style=for-the-badge&logo=LeetCode&logoColor=orange)](https://leetcode.com/u/gUrACkSdZF/) [![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://hackerrank.com/profile/ss8891055)
 
----
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-### 🛠️ Tech Stack
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Ssatyamsingh2&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=Ssatyamsingh2&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Ssatyamsingh2&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![React](https://img.shields.io/badge/-React.js-61DAFB?style=flat&logo=react&logoColor=black)
-![SpringBoot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Ssatyamsingh2&theme=buefy&no-frame=false&no-bg=false&margin-w=4)
 
----
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### ✨ Featured Projects
-
-| 🚩 Project | 📝 Description | 🧰 Stack |
-|:--|:--|:--|
-| **[AgroSahayak AI](https://ssatyamsingh2.github.io/agrosahayak-ai/)** | Multilingual (English/Hindi/Haryanvi) farming assistant for Indian farmers — crop disease detection, fertilizer shop finder, and a government schemes browser, with voice output support | HTML5, CSS3, JavaScript, ElevenLabs TTS API |
-| **Java Full Stack Currency Converter** | Real-time currency conversion desktop app with REST API + JDBC integration, offline fallback, and a responsive Swing GUI | Java, Swing, REST APIs, JDBC, MySQL |
-| **Full Stack Portfolio Website** | Responsive portfolio built with reusable React.js components and modern UI/UX practices | HTML, CSS, JavaScript, React.js |
-| **Software Testing & Automation** | Manual test case design, SDLC/STLC practice, and Selenium automation fundamentals | Selenium, Manual Testing |
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Ssatyamsingh2&limit=5&theme=onedark&combine_all_yearly_contributions=true)
 
 ---
-
-### 🏆 Coding Profiles
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/u/gUrACkSdZF/)
-[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=flat&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/ss8891055)
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ssatyamsingh2&show_icons=true&theme=radical&count_private=true" alt="Satyam's GitHub stats" />
-</p>
-
----
-
-### 📬 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/satyam-singh-04a160227/)
-[![Email](https://img.shields.io/badge/Email-satyam.work.in%40gmail.com-red?style=flat&logo=gmail)](mailto:satyam.work.in@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=googlechrome&logoColor=white)](https://ssatyamsingh2.github.io/MYPortfolio/)
-
-<p align="center"><em>Open to Java Full Stack Developer internships and entry-level roles — let's connect!</em></p>
+[![](https://komarev.com/ghpvc/?username=Ssatyamsingh2&icon=10&color=13)](https://visitcount.itsvg.in)
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
